@@ -18,8 +18,11 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 </pre>
 
+<p align="center">
+<img src="https://github.com/bblueside/bblueside/blob/main/public/img/avatar.png" align="center" />
+</p>
+<h1 align="center">hi everyone! im juli</h1>
 
-<h1 align="center">hi everyone! im juli</h4>
 
 
 
