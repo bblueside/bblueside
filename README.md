@@ -62,7 +62,7 @@
 ### 𑣲. stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,angular,nodejs,express,spring,py,mongodb,docker,unrealengine,figma" alt="Stack de herramientas" />
+  <img src="https://skillicons.dev/icons?i=react,ts,angular,nodejs,express,spring,py,mongodb,docker,unrealengine,figma,mysql,java,python,blender" alt="Stack de herramientas" />
 </p>
 
 ---
