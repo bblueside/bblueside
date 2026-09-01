@@ -1,10 +1,7 @@
-<h1 align="center">hiiiii! soy juli 👋</h1>
+<h1 align="center">hiiiii! i'm juli </h1>
 
-<h3 align="center">💻 desarrolladora full stack con sentido creativo</h3>
+<h3 align="center">fullstack dev embracing creative sixth sense</h3>
 
-<p align="center">
-  Me gusta pensar el código como una herramienta creativa, no solo técnica.
-</p>
 
 <p align="center">
   <a href="https://portfolio-v1-tawny-nine.vercel.app/">
@@ -19,12 +16,28 @@
 </p>
 
 ---
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⡦⢦⡀⠀⢹⠄⠀⣠⠤⠀⠢⢤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠆⠦⠄⠖⠒⣆⠀⠀⠀⠀⠀⠀⠀⠀⡀⣠⣀⣀⠀⠀⠀⢠⠟⠊⡉⠉⠓⣄⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠫⣀⡬⠹⡆⣘⢣⠚⠀⠀⠀⡀⠀⠉⢦⡀⠀⠀⣀⡀⠀⠨⡅⠀⠀⠀⠀⠀⢘⠂⠀⠀⠀⠀⠀⢐⣞⠛⠉⠀⠉⠛⣰⡀⡏⠀⢼⠁⠀⢀⣭⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⢀⣀⠀⠀⠀⠏⡖⣚⠀⢀⡸⠋⠉⢹⠀⣽⡇⢠⠏⠉⠉⠓⢦⣹⡀⡠⡆⡀⣠⢇⠔⠂⠃⢢⡀⠀⢾⠄⠀⡶⠒⣄⠀⠀⢿⢧⠀⠈⠓⡿⠊⠉⠀⠀⠀⠀⠀⠀
+⠀⢀⠖⣦⠽⠒⠱⠪⠝⢦⣴⣡⢭⠀⠀⢳⣀⢀⣉⡸⠧⠀⣈⠇⠀⠀⡀⠠⡥⡱⡛⣝⡽⢇⠅⠀⠀⠀⠸⠇⠀⠷⢧⢀⢉⡹⠮⠀⠀⣹⠾⣀⢤⠲⣞⡉⣉⣙⠘⠲⣄⡀⠀
+⢰⠿⡯⠁⡠⡤⣀⠀⠀⠀⠈⠑⢎⢦⡀⠀⠈⠘⠉⠁⠀⠀⢛⠀⠀⠀⠉⡵⢃⣿⣛⣝⣷⡘⢯⠉⠁⠀⠀⢩⡆⠀⠈⠛⠉⠓⠁⠀⣠⡽⠃⠓⠉⠀⠀⠀⢀⡈⠓⣦⡈⢧⠆
+⣼⡰⡅⠸⣁⣚⠀⢺⠀⠀⢀⠀⠀⠀⢳⢦⣠⠦⠤⠄⣀⠀⢀⡷⠗⣃⡼⢏⢃⡛⡽⢿⡓⢚⠽⠒⠠⢤⠤⠒⠁⠀⣠⣤⠤⣤⣀⠞⠃⢀⢤⡀⠀⠀⣄⣳⠋⡙⢦⠈⣆⠼⡟
+⢸⣧⠩⢦⣀⢁⣀⠏⠀⠀⠈⠉⠉⠈⠁⠀⠀⠉⠓⠘⠓⠚⠥⣠⠔⠀⠀⢀⠎⠡⣸⡍⠎⢣⠀⠀⠉⣎⡑⢲⠴⠼⠁⠐⠘⠋⠀⠉⠒⠐⠊⠁⠀⠀⣜⣥⠐⠧⠚⢩⣗⠀⠃
+⠀⠉⠱⠾⠽⡫⠄⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣀⠀⠀⠀⠀⠀⡥⡇⠀⠀⠀⠀⢀⡔⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠹⠦⢶⡞⠟⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠫⢤⢀⠾⠁⠹⣀⠀⣠⠝⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+  
+</pre>
 
 ### 🎓 Estudios
 
 - 🎓 Actualmente soy estudiante de Ingenería de Sistemas y tecnologa en la misma rama.
 
 ---
+
+
 
 
 ### 🧰 Stack
