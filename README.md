@@ -51,7 +51,7 @@
       interested in AI, machine learning, data science and automation
     </li>
      <li>
-      when i'm not coding, i'm usually having fun 3D modeling and listening heaven can wait by MJ
+      when i'm not coding, i'm usually having fun 3D modeling 
     </li>
   </ul>
 </p>
